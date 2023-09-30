@@ -7,3 +7,6 @@ This is a personal website for Andreas Avramidis.
 
 ### Activity 1
 ![Screenshot](screenshots/activity1.png)
+### Activity 2
+![Screenshot](screenshots/activity2-1.png)
+![Screenshot](screenshots/activity2-2.png)

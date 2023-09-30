@@ -13,3 +13,6 @@ This is a personal website for Andreas Avramidis.
 ### Activity 3
 ![Screenshot](screenshots/activity3-1.png)
 ![Screenshot](screenshots/activity3-2.png)
+### Activity 4
+![Screenshot](screenshots/activity4-1.png)
+![Screenshot](screenshots/activity4-2.png)
